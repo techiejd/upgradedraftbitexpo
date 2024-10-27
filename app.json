@@ -67,7 +67,10 @@
         {
           "initialOrientation": "ALL"
         }
-      ]
+      ],
+      "expo-asset",
+      "expo-build-properties",
+      "expo-font"
     ],
     "privacy": "unlisted",
     "version": "1.0.0",
